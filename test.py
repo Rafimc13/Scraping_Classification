@@ -10,5 +10,6 @@ with Edge() as driver:
     driver.get(url_youtube)
     wait = WebDriverWait(driver, 7)
 
-
-#fjdfjkrfj
+with Edge() as driver:
+    driver.get(url_youtube)
+    wait = WebDriverWait(driver, 7)##
