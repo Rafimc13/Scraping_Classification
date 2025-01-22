@@ -1,0 +1,5 @@
+.idea
+.ipynb_checkpoints
+dataset_sentences.txt
+gold.html
+starting_to_crawl.ipynb
